@@ -1,0 +1,19 @@
+[
+    {
+        "billDate": "25-04-2024",
+        "dueDate": "20-05-2024",
+        "invoiceClient": "Alta Cassin",
+        "invoiceProject": "Infographic Creation and Visualizations",
+        "invoiceTax": "Tax (10%)",
+        "invoiceSecondTax": "-"
+        },
+    {
+        "billDate": "28-04-2024",
+        "dueDate": "28-08-2024",
+        "invoiceClient": "Alta Cassin",
+        "invoiceProject": "Infographic Creation and Visualizations",
+        "invoiceTax": "-",
+        "invoiceSecondTax": "-"
+        }    
+]
+    
